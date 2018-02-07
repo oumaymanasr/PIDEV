@@ -1,0 +1,4 @@
+
+allforkids_template:
+    resource: "@AllforkidsTemplateBundle/Resources/config/routing.yml"
+    prefix:   /

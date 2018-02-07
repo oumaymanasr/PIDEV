@@ -1,0 +1,6 @@
+allforkids_template_homepage1:
+    path:     /
+    defaults: { _controller: AllforkidsTemplateBundle:Default:index }
+allforkids_template_homepage2:
+    path:     /index2
+    defaults: { _controller: AllforkidsTemplateBundle:Default:index2 }
